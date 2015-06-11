@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3126810219">
+    <data-source source="LOCAL" name="PostgreSQL - lyndacms_development@localhost" uuid="1948190b-3e46-45fb-8ccb-078c9b7559fc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/lyndacms_development</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

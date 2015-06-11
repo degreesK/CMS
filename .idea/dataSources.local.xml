@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - lyndacms_development@localhost" uuid="1948190b-3e46-45fb-8ccb-078c9b7559fc">
+      <secret-storage>master_key</secret-storage>
+      <user-name>artistTK</user-name>
+      <schema-pattern>lyndacms_development.pg_catalog lyndacms_development.public</schema-pattern>
+      <default-schemas>lyndacms_development.pg_catalog lyndacms_development.public</default-schemas>
+    </data-source>
+  </component>
+</project>
