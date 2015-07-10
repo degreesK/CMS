@@ -7,11 +7,15 @@
   end
 
    def hello
-     render ('index')
+     # render ('index')
    end
 
    def other_hello
      redirect_to(:controller => 'demo', :action => 'index')
+   end
+
+   def lynda
+     redirect_to("http://lynda.com")
    end
 
 end
